@@ -17,6 +17,8 @@ Daniel Chen - Pandas is for Everyone - PyCon 2019 https://www.youtube.com/watch?
 (stopped at 20 mins)
 
 To do:
+Andrew Ng - Machine Learning https://www.coursera.org/learn/machine-learning/home/welcome
+
 Natural Language Processing 
 Lecture Slides from the Stanford Coursera course http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
