@@ -23,3 +23,5 @@ Natural Language Processing
 Lecture Slides from the Stanford Coursera course http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
 Bloomberg - Foundations of Machine Learning https://bloomberg.github.io/foml/#home
+
+NLP Kaggle - Quora Question Pairs https://www.kaggle.com/c/quora-question-pairs
