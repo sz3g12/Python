@@ -25,3 +25,5 @@ Lecture Slides from the Stanford Coursera course http://web.stanford.edu/~jurafs
 Bloomberg - Foundations of Machine Learning https://bloomberg.github.io/foml/#home
 
 NLP Kaggle - Quora Question Pairs https://www.kaggle.com/c/quora-question-pairs
+
+Jupyter markdown reference https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd
