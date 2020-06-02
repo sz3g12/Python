@@ -22,6 +22,8 @@ Andrew Ng - Machine Learning https://www.coursera.org/learn/machine-learning/hom
 Natural Language Processing 
 Lecture Slides from the Stanford Coursera course http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
+YouTube videos of the course https://www.youtube.com/playlist?list=PLQiyVNMpDLKnZYBTUOlSI9mi9wAErFtFm
+
 Bloomberg - Foundations of Machine Learning https://bloomberg.github.io/foml/#home
 
 NLP Kaggle - Quora Question Pairs https://www.kaggle.com/c/quora-question-pairs
