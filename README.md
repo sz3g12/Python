@@ -16,7 +16,7 @@ PythonDataScienceHandbook https://github.com/jakevdp/PythonDataScienceHandbook/t
 Daniel Chen - Pandas is for Everyone - PyCon 2019 https://www.youtube.com/watch?v=3qDhDXNRgHE
 (stopped at 20 mins)
 
-To do:
+References:
 Andrew Ng - Machine Learning https://www.coursera.org/learn/machine-learning/home/welcome
 
 Natural Language Processing 
@@ -29,3 +29,7 @@ Bloomberg - Foundations of Machine Learning https://bloomberg.github.io/foml/#ho
 NLP Kaggle - Quora Question Pairs https://www.kaggle.com/c/quora-question-pairs
 
 Jupyter markdown reference https://towardsdatascience.com/write-markdown-latex-in-the-jupyter-notebook-10985edb91fd
+
+StatQuest https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
+
+Fun and Easy Machine Learning https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp
