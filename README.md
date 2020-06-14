@@ -33,3 +33,5 @@ Jupyter markdown reference https://towardsdatascience.com/write-markdown-latex-i
 StatQuest https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw
 
 Fun and Easy Machine Learning https://www.youtube.com/playlist?list=PL_Nji0JOuXg2udXfS6nhK3CkIYLDtHNLp
+
+End to end beginner project with Flask https://www.youtube.com/watch?v=sg2zLIor6QU
