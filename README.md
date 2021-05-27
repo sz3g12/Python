@@ -6,7 +6,7 @@ Machine Learning with Text in scikit-learn (PyCon 2016) https://www.youtube.com/
 
 100 Days Of ML Code https://github.com/Avik-Jain/100-Days-Of-ML-Code
 
-PythonDataScienceHandbook https://github.com/jakevdp/PythonDataScienceHandbook/tree/master/notebook
+PythonDataScienceHandbook https://jakevdp.github.io/PythonDataScienceHandbook/
 
 Daniel Chen - Pandas is for Everyone - PyCon 2019 https://www.youtube.com/watch?v=3qDhDXNRgHE
 
